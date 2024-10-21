@@ -1,0 +1,8 @@
+Pokeball#200#20
+Greatball#600#25
+Ultraball#1200#30
+Masterball#10000#50
+Potion#300#20
+Super Potion#700#50
+Hyper Potion#1200#120
+Max Potion#2000#200
