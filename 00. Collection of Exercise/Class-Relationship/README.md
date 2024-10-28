@@ -1,4 +1,4 @@
-# Title: Online Store
+# Online Store
 
 ### Main Program:
 1.	Create Object “MyStore”
