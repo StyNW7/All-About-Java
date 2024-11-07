@@ -1,4 +1,4 @@
-# Exercise Mid Exam - Family Restaurant
+# Exercise Mid Exam - NAR LCAS
 
 Course Outline:
 - Basic Java
